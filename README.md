@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**yanyanran/yanyanran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 XiyouLinux Group member
+- 🌱 The learning direction is currently Linux and java
+- 🤔 Dreams combine photography and programming
+- 💬 技术博客： [https://blog.csdn.net/m0_61705102?spm=1018.2226.3001.5343](https://blog.csdn.net/Yan__Ran?spm=1000.2115.3001.5343)
+- 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=gueFDF&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gueFDF&hide=css,html,swig,javascript&&layout=compact&locale=cn&theme=dracula)
+
+
+
+
+访问次数
+
+![Visitor Count](https://profile-counter.glitch.me/gueFDF/count.svg)
