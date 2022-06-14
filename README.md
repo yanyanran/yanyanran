@@ -2,7 +2,6 @@
 
 - ⛰️ One of the -XiyouLinux Group- members
 - 🌱 学习方向：Linux and java
-- 🤔 梦想把编程和摄影用巧劲结合
 - 💻 E-mail： yanran66666@qq.com
 - 💬 技术博客： [https://blog.csdn.net/m0_61705102?spm=1018.2226.3001.5343](https://blog.csdn.net/Yan__Ran?spm=1000.2115.3001.5343)
 
