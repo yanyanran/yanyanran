@@ -1,6 +1,6 @@
 ## Hi there ☀️ :octocat:
 
-- ⛰️ One of the -XiyouLinux Group- members
+- ⛰️ One of the -Xiyou Linux Group- members
 - 🌱 学习方向：Linux and java
 - 💻 E-mail： yanran66666@qq.com
 - 💬 技术博客： [https://blog.csdn.net/m0_61705102?spm=1018.2226.3001.5343](https://blog.csdn.net/Yan__Ran?spm=1000.2115.3001.5343)
