@@ -2,6 +2,8 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
+Hi! My  ![Visitor Count](https://profile-counter.glitch.me/yanyanran/count.svg)  Vistor.
+
 - ⛰️ One of the -Xiyou Linux Group- members
 - 🌱 学习方向：Linux and JAVA/GO
 - 💻 E-mail： yanran66666@qq.com
