@@ -6,7 +6,7 @@ Hi! My  ![Visitor Count](https://profile-counter.glitch.me/yanyanran/count.svg) 
 
 - ⛰️ One of the -Xiyou Linux Group- members
 - 🌱 学习方向：Linux and JAVA/GO
-- 💻 E-mail： yanran66666@qq.com
+- 💻 E-mail： yanran666666@gmail.com
 - 💬 技术博客： [https://blog.csdn.net/m0_61705102?spm=1018.2226.3001.5343](https://blog.csdn.net/Yan__Ran?spm=1000.2115.3001.5343) 
 - :octocat:  现博客以README形式转至github
 
