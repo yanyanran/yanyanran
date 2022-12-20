@@ -11,8 +11,7 @@ Hi! My  ![Visitor Count](https://profile-counter.glitch.me/yanyanran/count.svg) 
 - :octocat:  现 博客/随笔 以Markdown形式转至github仓库--YBlog
 
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=yanyanran&show_icons=true&hide_border=true" />
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yanyanran&theme=dark&layout=compact)
+<img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanyanran&theme=dark&layout=compact" />
 
 ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code%2FIDEA-brightgreen)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
